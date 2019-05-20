@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/2-simple-array-sum/2-simple-array-sum.csproj"
+                "${workspaceFolder}"
             ],
             "problemMatcher": "$tsc"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/2-simple-array-sum/2-simple-array-sum.csproj"
+                "${workspaceFolder}"
             ],
             "problemMatcher": "$tsc"
         },
@@ -28,7 +28,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/2-simple-array-sum/2-simple-array-sum.csproj"
+                "${workspaceFolder}"
             ],
             "problemMatcher": "$tsc"
         }
