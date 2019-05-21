@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-a-very-big-sum", "4-a-ver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-diagonal-difference", "5-diagonal-difference\5-diagonal-difference.csproj", "{9AC4BF26-2D0D-46AB-A641-C9A1A74BEC37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-plus-minus", "6-plus-minus\6-plus-minus.csproj", "{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{9AC4BF26-2D0D-46AB-A641-C9A1A74BEC37}.Release|x64.Build.0 = Release|Any CPU
 		{9AC4BF26-2D0D-46AB-A641-C9A1A74BEC37}.Release|x86.ActiveCfg = Release|Any CPU
 		{9AC4BF26-2D0D-46AB-A641-C9A1A74BEC37}.Release|x86.Build.0 = Release|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Debug|x64.Build.0 = Debug|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Debug|x86.Build.0 = Debug|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Release|x64.ActiveCfg = Release|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Release|x64.Build.0 = Release|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Release|x86.ActiveCfg = Release|Any CPU
+		{D92F9D6D-9FB6-4EE9-BFBC-EBDCEF346B34}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
